@@ -7,8 +7,11 @@
   "license": "ISC",
   "private": false,
   "dependencies": {
-    "ajv": "^8.17.1",
-    "json-faker": "^1.1.2",
-    "lodash": "^4.17.21"
-  }
+
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }

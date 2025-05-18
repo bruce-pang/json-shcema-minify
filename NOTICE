@@ -1,0 +1,11 @@
+json-schema-minify
+Copyright 2025 brucepang
+
+This project contains modified code from the following third-party libraries:
+----------------------------------------------------------------------------
+lljj-x/vue-json-schema-form (Apache License 2.0)
+  - Original copyright: "Copyright 2022 lljj-x"
+  - Repository: https://github.com/lljj-x/vue-json-schema-form
+  - Included modules:
+    * packages/lib/utils/schema: *.js
+    * packages/lib/utils/: arrayUtils.js, formUtils.js, utils.js, vueUtils.js

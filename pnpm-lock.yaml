@@ -7,6 +7,16 @@ settings:
 importers:
 
   .:
+    dependencies:
+      ajv:
+        specifier: ^8.17.1
+        version: 8.17.1
+      json-faker:
+        specifier: ^1.1.2
+        version: 1.1.2
+      lodash:
+        specifier: ^4.17.21
+        version: 4.17.21
     devDependencies:
       eslint:
         specifier: ^9.27.0
@@ -25,17 +35,7 @@ importers:
 
   packages/schema-form: {}
 
-  packages/schema-minify:
-    dependencies:
-      ajv:
-        specifier: ^8.17.1
-        version: 8.17.1
-      json-faker:
-        specifier: ^1.1.2
-        version: 1.1.2
-      lodash:
-        specifier: ^4.17.21
-        version: 4.17.21
+  packages/schema-minify: {}
 
 packages:
 

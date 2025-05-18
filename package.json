@@ -14,7 +14,9 @@
     "packages/*"
   ],
   "dependencies": {
-
+    "ajv": "^8.17.1",
+    "json-faker": "^1.1.2",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "eslint": "^9.27.0",
