@@ -1,0 +1,10 @@
+{
+  "name": "@brucepang/common",
+  "version": "0.0.1",
+  "description": "适合于本工程的公共库",
+  "main": "index.js",
+  "keywords": ["jsonschema"],
+  "author": "brucepang",
+  "license": "ISC",
+  "private": false
+}

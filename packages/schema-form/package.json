@@ -1,0 +1,10 @@
+{
+  "name": "@brucepang/schema-form",
+  "version": "0.0.1",
+  "description": "根据jsonschema生成表单",
+  "main": "index.js",
+  "keywords": ["jsonschema", "form"],
+  "author": "brucepang",
+  "license": "ISC",
+  "private": false
+}

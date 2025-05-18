@@ -1,0 +1,14 @@
+{
+  "name": "@brucepang/schema-minify",
+  "version": "0.0.1",
+  "description": "用于计算压缩出最小长度的jsonschema",
+  "main": "index.js",
+  "author": "brucepang",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "json-faker": "^1.1.2",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@brucepang/json-shcema-minify",
+  "version": "0.0.1",
+  "description": "为了减少jsonschema必须填写的项而编写的工具",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "private": true,
+  "keywords": [],
+  "author": "brucepang",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "eslint": "^9.27.0",
+    "lerna": "^8.2.2",
+    "rimraf": "^6.0.1",
+    "scripty": "^3.0.0"
+  }
+}
